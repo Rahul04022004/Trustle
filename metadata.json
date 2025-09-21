@@ -1,0 +1,7 @@
+{
+  "name": "Trustle",
+  "description": "Trustle uses a multi-agent system to analyze web content, verify sources, and produce actionable intelligence briefs to combat misinformation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
